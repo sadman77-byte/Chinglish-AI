@@ -72,3 +72,13 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 Distributed under the MIT License. See LICENSE for more information.
 
 ```
+
+Process-1
+
+<img width="1080" height="2400" alt="1000132630" src="https://github.com/user-attachments/assets/6ee3a23b-39d3-46e3-b9ec-05c0e0366db2" />
+
+Process-2
+
+<img width="1080" height="2400" alt="1000132634" src="https://github.com/user-attachments/assets/62223f02-545c-493c-a819-7b8d6eb3ce7b" />
+<img width="1080" height="2400" alt="1000132633" src="https://github.com/user-attachments/assets/3d5d6714-0689-4281-b9d7-b6d27d01e016" />
+<img width="1080" height="2400" alt="1000132632" src="https://github.com/user-attachments/assets/88324d47-2090-4f15-9944-502893a57c0d" />
